@@ -1,4 +1,4 @@
 class Dog
   def dog
-    @dog = dog
+    puts "woof"
   end
