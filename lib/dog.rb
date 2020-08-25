@@ -1,6 +1,6 @@
 class Dog
   def dog
-    puts "woof"
+    puts "woof!"
   end
   
   def sit
